@@ -1,15 +1,16 @@
-
-<html lang='en'>
-<head>
-  <title>Procoder</title>
-  <link rel='stylesheet' href='style.css'>
-</head>
-<body>
-  <tr><td>Hi, I am Procoder </td>
-  
-  
-  </tr>
-
-</body>
-</html>
-<a href= https://yohoho.io> Games</a>
+<iframe
+  src="./local/index.html"
+  style="
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    border: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    z-index: 999999;
+    height: 100%;
+  ">
+</iframe>
