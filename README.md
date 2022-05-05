@@ -12,4 +12,4 @@
 
 </body>
 </html>
-<a href= "https://thefunsite.github.io/"> Games</a>
+<a href= https://yohoho.io> Games</a>
